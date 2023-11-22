@@ -6,7 +6,7 @@
 #include <sstream>
 #include <fstream>
 
-const std::string    BOT_TOKEN    = "MTE2ODI0NzIxNTAzNTI1Njg1Mw.G171_e.1cVdwxgvaY7xRr5Pd38fSvwSoaGj2UdCRGYZEY";
+const std::string    BOT_TOKEN    = "token";
 using namespace std;
 
 
